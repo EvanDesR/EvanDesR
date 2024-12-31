@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Evan
+# 👋 Bonjour, I’m Evan
 ---
 I like C++, and operating systems. These two interests converge pretty well with the WinAPI(RemoteAdmin,ProcessEnumConsole) and kernel drivers. 
 <!---
